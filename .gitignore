@@ -7,3 +7,11 @@ __pycache__/
 .env.*
 !.env.example
 .vscode/
+
+# Collected public facility datasets and API response snapshots
+backend/AED/aed_nationwide.json
+backend/medical/medical_nationwide.json
+backend/medical/medical_response.xml
+backend/AED/aed_collection_progress.json
+backend/medical/medical_collection_progress.json
+samples/*.json
